@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="E:/software/guijar/tomcat7lib/annotations-api.jar"/>
+	<classpathentry kind="lib" path="E:/software/guijar/tomcat7lib/bootstrap.jar"/>
+	<classpathentry kind="lib" path="E:/software/guijar/tomcat7lib/catalina.jar"/>
+	<classpathentry kind="lib" path="E:/software/guijar/tomcat7lib/catalina-ant.jar"/>
+	<classpathentry kind="lib" path="E:/software/guijar/tomcat7lib/catalina-ha.jar"/>
+	<classpathentry kind="lib" path="E:/software/guijar/tomcat7lib/catalina-tribes.jar"/>
+	<classpathentry kind="lib" path="E:/software/guijar/tomcat7lib/commons-daemon.jar"/>
+	<classpathentry kind="lib" path="E:/software/guijar/tomcat7lib/ecj-4.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/software/guijar/tomcat7lib/el-api.jar"/>
+	<classpathentry kind="lib" path="E:/software/guijar/tomcat7lib/jasper.jar"/>
+	<classpathentry kind="lib" path="E:/software/guijar/tomcat7lib/jasper-el.jar"/>
+	<classpathentry kind="lib" path="E:/software/guijar/tomcat7lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="E:/software/guijar/tomcat7lib/lib.zip"/>
+	<classpathentry kind="lib" path="E:/software/guijar/tomcat7lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="E:/software/guijar/tomcat7lib/tomcat7-websocket.jar"/>
+	<classpathentry kind="lib" path="E:/software/guijar/tomcat7lib/tomcat-api.jar"/>
+	<classpathentry kind="lib" path="E:/software/guijar/tomcat7lib/tomcat-coyote.jar"/>
+	<classpathentry kind="lib" path="E:/software/guijar/tomcat7lib/tomcat-dbcp.jar"/>
+	<classpathentry kind="lib" path="E:/software/guijar/tomcat7lib/tomcat-i18n-es.jar"/>
+	<classpathentry kind="lib" path="E:/software/guijar/tomcat7lib/tomcat-i18n-fr.jar"/>
+	<classpathentry kind="lib" path="E:/software/guijar/tomcat7lib/tomcat-i18n-ja.jar"/>
+	<classpathentry kind="lib" path="E:/software/guijar/tomcat7lib/tomcat-jdbc.jar"/>
+	<classpathentry kind="lib" path="E:/software/guijar/tomcat7lib/tomcat-juli.jar"/>
+	<classpathentry kind="lib" path="E:/software/guijar/tomcat7lib/tomcat-util.jar"/>
+	<classpathentry kind="lib" path="E:/software/guijar/tomcat7lib/websocket-api.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/cas-server-core"/>
+	<classpathentry kind="lib" path="E:/software/guijar/tomcat7lib/cas-server-core-3.5.2.jar"/>
+	<classpathentry kind="lib" path="E:/zy/redis session共享/commons-pool-1.6.jar"/>
+	<classpathentry kind="lib" path="E:/zy/redis session共享/jedis-2.2.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
